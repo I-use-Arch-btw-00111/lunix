@@ -5,7 +5,7 @@
 
 BSD, Lunix, Debian and Mandrake, and Arch are all versions of an illegal hacker operation system, invented by a Soviet computer hacker named Linyos Torovoltos, before the Russians lost the Cold War. It is based on a program called " xenix", which was written by Microsoft for the US government. These programs are used by hackers to break into other people's computer systems to steal credit card numbers. They may also be used to break into people's stereos to steal their music, using the "mp3" program. Torovoltos is a notorious hacker, responsible for writing many hacker programs, such as "telnet", which is used by hackers to connect to machines on the internet without using a telephone.
 
-Torovoltos has been wanted by the FBI for the last several decades, but, using his inventions (including Linux), he managed to cover his trail and mislead the cops.
+Torovoltos has been wanted by the FBI for the last several decades, but, using his inventions (including Lunix), he managed to cover his trail and mislead the cops.
 
 Your son may try to install " lunix" on your hard drive. If he is careful, you may not notice its presence, however, lunix is a capricious beast, and if handled incorrectly, your son may damage your computer, break it completely, and even do much worse things that might lead to an actual apocalypse.
 
